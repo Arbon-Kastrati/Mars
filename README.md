@@ -1,2 +1,2 @@
 # Mars
-A new line of code
+A line of code
